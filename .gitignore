@@ -1,0 +1,5 @@
+.DS_Store
+tmp/*
+config.yml
+.ruby-version
+.bundle
